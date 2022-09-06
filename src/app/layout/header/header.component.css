@@ -1,10 +1,18 @@
 .header {
   text-align: center;
-  background: #33B5E5;
+  background: #33b5e5;
   color: #fff;
   padding: 12px;
 }
 
+.navigation {
+  margin-top: 8px;
+}
+
 a {
   color: #ffffff;
+}
+
+a:hover {
+  color: red;
 }

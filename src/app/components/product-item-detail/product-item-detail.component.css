@@ -1,11 +1,18 @@
+.product-detail {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1080px;
+}
+
 img {
   border-radius: 10px;
   width: 320px;
 }
 
 .select-input {
-  width: 108px; 
+  width: 108px;
   margin-bottom: 8px;
+  display: block;
 }
 
 .detail-container {
